@@ -15,7 +15,7 @@ public:
 
 class pekerja : public orang
 {
-    public:
+public:
 
     pekerja(int pUmur) :
         orang(pUmur)
@@ -25,4 +25,9 @@ class pekerja : public orang
 
 };
 
-class pelajar
+class pelajar : public orang 
+{
+    public :
+
+    pelajar(int pUmur) :
+};
