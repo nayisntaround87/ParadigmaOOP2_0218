@@ -24,3 +24,5 @@ class pekerja : public orang
     }
 
 };
+
+class pelajar
