@@ -9,3 +9,9 @@ class seseorang
     //cout<<"pesan dari seseorang"<<endl;
     //}
 };
+
+class joko : public seseorang
+{
+    
+
+};
