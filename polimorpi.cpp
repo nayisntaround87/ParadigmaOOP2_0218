@@ -34,5 +34,10 @@ int main()
     joko a;
     lia b;
 
-    obyek
+    obyek = &a;
+    obyek->pesan();
+    obyek = &b;
+    obyek->pesan();
+    //a. seseorang::pesan();
+    return 0;
 }
